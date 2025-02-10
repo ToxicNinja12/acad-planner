@@ -1,3 +1,5 @@
+// FullCalendar.io is used for event scheduling (MIT License)
+// Docs: https://fullcalendar.io/docs
 let events = [];
 for (let i = 0; i < classes.length; i++) {
     events.push({
