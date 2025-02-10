@@ -1,0 +1,19 @@
+.fc-timegrid-slot-label {
+    font-weight: lighter;
+    color: #6b7280;
+    font-size: smaller;
+}
+
+.fc-timegrid-event-harness {
+    border-radius: 0.375rem;
+    text-align: center;
+    margin-block: 0.0625rem;
+}
+
+.fc-event-title-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
